@@ -1,1 +1,1 @@
-Using BART and just finetuning it with the medical transcription data.
+Using BART and finetuned it with the medical transcription data.
